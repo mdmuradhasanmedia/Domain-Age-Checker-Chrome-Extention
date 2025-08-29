@@ -17,4 +17,4 @@ It uses the free [TG Data Hub Domain Age Checker](https://tgdatahub.site/tools/d
 1. Download this repository as a ZIP and extract it.  
    Or clone directly:
    ```bash
-   git clone [https://github.com/mdmuradhasanmedia/domain-age-checker-chrome-extension.git](https://github.com/mdmuradhasanmedia/domain-age-checker-chrome-extention.git)
+   git clone https://github.com/mdmuradhasanmedia/domain-age-checker-chrome-extention.git
